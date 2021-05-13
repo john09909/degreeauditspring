@@ -1,0 +1,29 @@
+Server :-
+URL https://162.0.233.70:2087/
+Username root
+Password ewvs$CJqzP8Y
+
+$year = 'Freshman';
+
+$full = ['CS 1200 Introduction to CS&SE','ECS 1100 Introduction to Engr g. & CS','Math 2413 or 2417Calcul us I','CS 1337 Compute r Science I','UNIV 1010 Fres hma n Seminar'];
+
+$spring = ['CS 2336 or 2337 Computer Science II','CS 2305 Di screte Ma thema ti cs I','Math 2414 or 2419 Calcul us II',' Phys 2325 Mecha ni cs and Heat','Phys 2125 Mecha ni cs and Heat Lab'];
+
+
+$year = 'Sophomore';
+
+$full = ['CS 3305 Discrete Math for Computing II','CS 2340 Computer Architecture',' Phys 2326 Electricity and Magnetism',' Phys 2126 Electricity and Magnetism Lab'];
+
+$spring = ['CS 3341 Probability & Statistics in CS',' CS 3345 Algorithm Analysis & Data Struc','CS 3377 C/C++ Programming in UNIX Envr.','Math 2418 Linear Algebra'];
+
+$year = 'Junior';
+
+$full = ['CS 3354 Software Engineering','CS 4337 Organization of Programming Lang','CS 4341 Digital Logic and Computer Design','CS 4141 Digital Systems Laboratory','ECS 3390 Professional & Technical Comm'];
+
+$spring = ['CS 3162 Prof Responsibility in CS and SE','CS  4348 Operating Systems Concepts','CS 4349 Adv Data Structures Algorithms'];
+
+$year = 'Senior';
+
+$full = [' CS 4384 Automata Theory','CS 43XX CS Guided Elective','CS 43XX CS Guided Elective','CS 4347 Database Systems'];
+
+$spring = ['CS 4485 Computer Science Project','CS 43XX CS Guided Elective'];
