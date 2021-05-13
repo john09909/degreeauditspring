@@ -100,8 +100,8 @@ Please make sure to update tests as appropriate.
 * Implement PreReq logic for other majors
 * Dropdown of future courses to take based on prereq logic
 * Implementation on UTD Servers
-* Make Transfer student Credit Validation for
-*
+* Make Transfer student Credit Validation for equivalent courses at UTD
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
