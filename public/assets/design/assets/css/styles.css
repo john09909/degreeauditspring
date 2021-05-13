@@ -1,0 +1,50 @@
+body {
+	font-family: 'Roboto', sans-serif!important;
+}
+
+.text-black {
+	color: black!important;
+}
+
+.b {
+	font-weight: bold;
+}
+
+.mb0 {
+	margin-bottom: 0;
+}
+.mt0 {
+	margin-top: 0;
+}
+
+.ba {
+	border: 1px solid rgba(0,0,0,0.1);
+}
+.mh3 {
+	margin-left: 1rem;
+	margin-right: 1rem;
+}
+
+.pa2 {
+	padding: 0.25rem 0.4rem;
+}
+
+.mt1 {
+	margin-top: 0.6rem;
+}
+
+.mb1 {
+	margin-bottom: 0.6rem;
+}
+
+.pointer {
+	cursor: pointer;
+}
+
+.vertical-text {
+	writing-mode: vertical-rl;
+  text-orientation: upright;
+}
+.items-center {
+	align-items: center;
+}
