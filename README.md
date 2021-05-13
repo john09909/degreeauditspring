@@ -60,7 +60,7 @@ cd /var/www/html
 ```
 
 ```bash
-git clone <projectGithubLink>
+git clone <https://github.com/eliseorobles/degreeauditspring>
 ```
 
 ```bash
